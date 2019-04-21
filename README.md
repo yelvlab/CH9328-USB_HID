@@ -1,0 +1,3 @@
+CH9328 PCB project
+
+KiCAD 5.1.0
